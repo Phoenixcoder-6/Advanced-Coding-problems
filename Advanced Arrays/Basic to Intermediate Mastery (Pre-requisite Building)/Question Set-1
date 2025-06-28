@@ -6,6 +6,7 @@
 5. Left rotate array by one place.
 6. Left rotate array by D places.
 7. Insert an element at a given position.
+8. Delete an element from an array
 
 1. Kadane's Algorithm – Maximum Subarray Sum
 2. Prefix Sum – Range Sum Query / Equilibrium Index
