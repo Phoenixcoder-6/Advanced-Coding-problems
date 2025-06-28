@@ -1,5 +1,6 @@
 --Level-1:
 1. Find the maximum and minimum element in an array.
+2. Find the second largest element in an array.
 
 1. Kadane's Algorithm – Maximum Subarray Sum
 2. Prefix Sum – Range Sum Query / Equilibrium Index
