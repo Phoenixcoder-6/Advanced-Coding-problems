@@ -3,6 +3,7 @@
 2. Find the second largest element in an array.
 3. Check if the array is sorted.
 4. Reverse an array in-place.
+5. Left rotate array by one place.
 
 1. Kadane's Algorithm – Maximum Subarray Sum
 2. Prefix Sum – Range Sum Query / Equilibrium Index
