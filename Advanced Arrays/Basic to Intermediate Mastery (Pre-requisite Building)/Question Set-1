@@ -5,6 +5,7 @@
 4. Reverse an array in-place.
 5. Left rotate array by one place.
 6. Left rotate array by D places.
+7. Insert an element at a given position.
 
 1. Kadane's Algorithm – Maximum Subarray Sum
 2. Prefix Sum – Range Sum Query / Equilibrium Index
