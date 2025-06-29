@@ -8,6 +8,9 @@
 7. Insert an element at a given position.
 8. Delete an element from an array
 
+-- Level-2: 
+1. Remove duplicates from a sorted array (Two pointer approach)
+
 1. Kadane's Algorithm – Maximum Subarray Sum
 2. Prefix Sum – Range Sum Query / Equilibrium Index
 3. Pair with Given Sum in Sorted Array.
