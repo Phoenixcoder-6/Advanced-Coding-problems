@@ -19,4 +19,8 @@ def max_water(height):
 
 
 height = [1,8,6,2,5,4,8,3,7]
+
 print(max_water(height))
+.
+.
+.
